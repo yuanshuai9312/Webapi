@@ -1,0 +1,15 @@
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\obj\Debug\ABenNet.Knowledge.App.csprojAssemblyReference.cache
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\obj\Debug\ABenNet.Knowledge.App.csproj.GenerateResource.cache
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\obj\Debug\ABenNet.Knowledge.App.LoginForm.resources
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\bin\Debug\ABenNet.Knowledge.App.exe.config
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\bin\Debug\ABenNet.Knowledge.App.exe
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\bin\Debug\ABenNet.Knowledge.App.pdb
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\bin\Debug\ABenNet.Toolkit.dll
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\bin\Debug\Newtonsoft.Json.dll
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\bin\Debug\NLog.dll
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\bin\Debug\ABenNet.Toolkit.pdb
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\obj\Debug\ABenNet.Knowledge.App.Properties.Resources.resources
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\obj\Debug\ABenNet.Knowledge.App.csproj.CopyComplete
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\obj\Debug\ABenNet.Knowledge.App.exe
+D:\个人\GitHubProject\OpenLessonProject\ASP.NET WebApi技术从入门到实战演练\源代码\ABenNet.Knowledge.WebAPI\ABenNet.Knowledge.App\obj\Debug\ABenNet.Knowledge.App.pdb

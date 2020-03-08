@@ -1,0 +1,12 @@
+2020-02-17 15:57:28.6122 Info: ☆☆☆开始请求服务:http://localhost:5678/api/LoginService/Login，参数：{"user_id":"abennet","user_password":"abennet"} 
+2020-02-17 15:57:30.4503 Info:★★★结束,服务:http://localhost:5678/api/LoginService/Login,总耗时:1114ms 
+2020-02-17 15:57:30.4503 Info:
+ 
+2020-02-17 15:57:33.6015 Info: ☆☆☆开始请求服务:http://localhost:5678/api/LoginService/LoginByFromBody?uid=123456，参数：{"user_id":"abennet","user_password":"abennet"} 
+2020-02-17 15:57:34.9307 Info:★★★结束,服务:http://localhost:5678/api/LoginService/LoginByFromBody?uid=123456,总耗时:950ms 
+2020-02-17 15:57:34.9307 Info:
+ 
+2020-02-17 15:58:07.3245 Info: ☆☆☆开始请求服务:http://localhost:5678/api/LoginService/Login，参数：{"user_id":"abennet","user_password":"abennet"} 
+2020-02-17 15:58:08.7701 Info:★★★结束,服务:http://localhost:5678/api/LoginService/Login,总耗时:452ms 
+2020-02-17 15:58:08.7701 Info:
+ 
